@@ -2,7 +2,6 @@
 # beego_customize
 
 beego改造版本，支持so自动路由
-=======
 # Beego [![Build Status](https://travis-ci.org/astaxie/beego.svg?branch=master)](https://travis-ci.org/astaxie/beego) [![GoDoc](http://godoc.org/github.com/astaxie/beego?status.svg)](http://godoc.org/github.com/astaxie/beego) [![Foundation](https://img.shields.io/badge/Golang-Foundation-green.svg)](http://golangfoundation.org) [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/beego)](https://goreportcard.com/report/github.com/astaxie/beego)
 
 
@@ -66,4 +65,7 @@ Congratulations! You've just built your first **beego** app.
 
 beego source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
->>>>>>> develop
+=======
+# beego_customize_socontroller
+beego改造版本，支持类似php ci框架的按路径路由
+>>>>>>> f6a26ff18c2701a44dcd2ae0f77ac740e83d23f9

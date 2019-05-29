@@ -64,3 +64,6 @@ Congratulations! You've just built your first **beego** app.
 
 beego source code is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+=======
+# beego_customize_socontroller
+beego改造版本，支持类似php ci框架的按路径路由
